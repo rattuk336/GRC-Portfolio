@@ -39,8 +39,8 @@ I created these projects to show potential employers that I understand:
 - Even "good" vendors have gaps that need **management attention**
 
 ## 🔧 Tools Used
-- Google Sheets / Excel (Risk Register, Scorecard)
-- Google Docs / Word (Policies, Reports)
+- Excel (Risk Register, Scorecard)
+- Word (Policies, Reports)
 - GitHub (Portfolio hosting)
 
 ## 📫 Connect With Me
